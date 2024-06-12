@@ -1,7 +1,7 @@
 # logins
 ### Creating a 2 transparent logins one with gradient background and one with a video background
-### Login_gradient: https://regularname11.github.io/logins/Login_gradient
-### Login_gradient: https://regularname11.github.io/logins/Login_video
+### Login gradient: https://regularname11.github.io/logins/Login_gradient
+### Login video: https://regularname11.github.io/logins/Login_video
 
 # Screenshots
 ## login with video background
